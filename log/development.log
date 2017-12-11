@@ -1,0 +1,6 @@
+
+
+Started GET "/" for 96.242.115.144 at 2017-12-11 14:58:03 +0000
+Cannot render console from 96.242.115.144! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.1ms)
